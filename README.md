@@ -5,6 +5,7 @@
 vue3+webpack5框架
 vue-router4路由
 element-plus组件库
+单页面应用
 # 环境
 node版本14
 # 安装
